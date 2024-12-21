@@ -1,0 +1,29 @@
+.g-div{
+    background-color:rgb(238, 78, 78);
+    height: 400px;
+    width: 400px;
+    border: 4px solid black;
+    display: grid;
+    place-items: center;
+}
+.p-div{
+    background-color:rgb(23, 252, 23);
+    height: 200px;
+    width: 200px;
+    border: 4px solid black;
+    display: grid;
+    place-items: center;
+}
+.c-div{
+    background-color: blue;
+    height: 50px;
+}
+.main-div{
+    /* height: 80vh; */
+    width: 60vw;
+    background-image: linear-gradient(to right, blue,cyan);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
