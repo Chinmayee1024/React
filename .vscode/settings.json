@@ -1,4 +1,26 @@
 {
   "material-icon-theme.folders.color": "#ef5350",
 "material-icon-theme.files.color": "#42a5f5",
+
+
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "jdk.jdkhome": "c:\\Program Files\\Java\\jdk1.8.0_301",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.userWords": [
+    "Chinmayee"
+  ],
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
